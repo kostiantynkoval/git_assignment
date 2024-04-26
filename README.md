@@ -26,4 +26,4 @@ g. What is the main branch?
 - It is a root branch. Could be also named as `master`
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
-- Short answer is NEVER. Main branch is used usually to contain production version. All work should be done in another branches
+- Short answer is NEVER. Main branch is used usually to contain production version. All work should be done in another branches.
